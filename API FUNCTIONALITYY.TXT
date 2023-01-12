@@ -1,0 +1,7 @@
+In my development I have chosen to use PHP. MYSQL AND HTML.
+I use html and php to display and capture the data from the user input.
+I send this data to the database using MYSQL and perform CRUD operations.
+
+
+I chose this frameworks because they are quick to build with and get the product to market while still being functional and user friendly.
+PHP is fast and can easily be hooked up to different apis. It is easy to consume apis and add endpoints.
